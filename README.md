@@ -27,7 +27,6 @@ Below are images of a filtered search after requesting that dates UFO sightings,
 
 
 
-
 ## Summary
 Drawback:
 - The webpage is not as interactive and the information provided is limited, you want to make it more interactive so that there can be more user activity.
