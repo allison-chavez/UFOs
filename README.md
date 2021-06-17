@@ -10,9 +10,16 @@ The purpose of this project was to help Dana create a website, UFO Finder, that 
 
 
 ## Results
-There is a description of how to perform a search, with images
+The website is user friendly and all the information within the website is accessible with a click of the "enter" button on your keyboard. 
+When you first arrive to the website you will see the main header and a paragraph for the users. Shown below are the images of the webpage upon arrival.
+
 ![alt text](https://github.com/allison-chavez/UFOs/blob/main/images/Page%20header.png)
 ![alt text](https://github.com/allison-chavez/UFOs/blob/main/images/Dashboard.png)
+
+In order, to perform a search all a user has to do is enter in the information they are looking for, more specifically the city or date or even country. The website allows the user to narrow results as much as they'd like with the information provided. The search bars have a template of what they can fill in that search bar as well. Once the information they're want is in the search bars then they can press enter and the results will show in the dashboard. 
+
+Below are images of a filtered search after requesting that dates UFO sightings, the dash board shows the information it has acquired.
+
 ![alt text](https://github.com/allison-chavez/UFOs/blob/main/images/Filter%20Search.png)
 ![alt text](https://github.com/allison-chavez/UFOs/blob/main/images/Filtered%20Results.png)
 
