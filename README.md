@@ -29,5 +29,9 @@ Below are images of a filtered search after requesting that dates UFO sightings,
 
 
 ## Summary
-The summary addresses one drawback of this webpage (2 pt)
-The summary addresses two additional recommendations for further development
+Drawback:
+- The webpage is not as interactive and the information provided is limited, you want to make it more interactive so that there can be more user activity.
+
+Recommendations:
+- We can insert a text box for the user to have either comments on the information found in the website to make it interactive.
+- Create a text box to have questions or request for more specific information that can be scraped, therefore the web page can have more content.
