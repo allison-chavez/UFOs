@@ -1,7 +1,12 @@
 # UFO's
 
 ## Project Overview
+The purpose of this project was to help Dana create a website, UFO Finder, that would be easy for users to maneuver and get more in-depth insight to UFO sightings. I created a website using different tools in order to scrape and filter out specific data such as city, state, country, date, and shape. Moreover, refactored the module code to filter out data with “enter” and not have to click a button. 
 
+
+### Tools
+-	Javascript
+-	Html
 
 
 ## Results
